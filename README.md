@@ -17,7 +17,6 @@
  5、个性化营销，激活潜在销售机会，线索、商机、产品、报价、订单、合同全流程覆盖。
 #     
 
-![image](https://maque-1251600142.cos.ap-beijing.myqcloud.com/cat/2071420.png)
-#     
+    
 
 ![image](https://maque-1251600142.cos.ap-beijing.myqcloud.com/cat/cat_down.png)
