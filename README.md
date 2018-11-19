@@ -1,4 +1,4 @@
-#  招财猫 
+#  招财猫 - 测试版
 
 高效协作，即时沟通，提升销售效率与业绩，提升企业协同效率，提升上下游业务效率，降低IT成本，更好的体验！帮助中小企业互联网转型升级！
 
@@ -17,6 +17,7 @@
  5、个性化营销，激活潜在销售机会，线索、商机、产品、报价、订单、合同全流程覆盖。
 #     
 
-    
+ ![image](https://maque-1251600142.cos.ap-beijing.myqcloud.com/cat/2071420.png)
+#      
 
 ![image](https://maque-1251600142.cos.ap-beijing.myqcloud.com/cat/cat_down.png)
